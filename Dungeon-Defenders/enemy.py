@@ -1,7 +1,5 @@
 import pygame
 from assets import *
-size = width, height = 1280, 720
-screen = pygame.display.set_mode(size, pygame.SHOWN)
 
 gameVar={}
 with open("game.txt", "r") as game_:
