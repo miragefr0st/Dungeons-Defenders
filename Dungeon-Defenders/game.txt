@@ -1,0 +1,22 @@
+xspeed = 0  # Vitesse et position des ennemis
+yspeed = 0
+xpos = 0
+ypos = 0
+
+money = 2000  # PV et Gold de base
+lives = 10
+
+click = 0  # Pour placer les tours
+icon = 0
+place = 0
+
+enemycount = 0  # Pour la génération d'ennemis et l'augmentation de la santé et de la vitesse après chaque vague
+producecount = 0
+wave = 1
+spawncount = 0
+alienspacing = 30
+numaliens = 5
+empty = 0
+hlth = 10
+spd = 3
+healthspacing = -10
